@@ -30,4 +30,12 @@
 
 - Presents results, including best match index, score, and visual representation.
 
+## Execution Flow
+
+- Database Module: Loads high-quality rolled fingerprint images.
+- Input Module: Loads input image and templates.
+- Preprocessing Module: Enhances image quality.
+- Extracting Minutiae Module: Identifies minutiae for feature extraction.
+- Matching Module: Computes similarity, normalizes scores, and identifies the best match.
+- Output Module: Presents results.
 
