@@ -1,5 +1,8 @@
 # Fingerprint Recognition
 
+## Overview
+This Python-based fingerprint recognition system comprises modular components for input handling, preprocessing, minutiae extraction, matching, database management, and output presentation.
+
 ## Key Features
 
 ## 1. Input Module
